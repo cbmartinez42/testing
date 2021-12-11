@@ -5,8 +5,8 @@
 Contribution
 Matthew McElwee
 
-Screenshots of Portfolio
-![Top of portfolio page] (/assets/images/top-screen.png)
+Screenshots of Portfolio  
+![Top of portfolio page](/assets/images/top-screen.png)
 
 ![middle of portfolio page] (/assets/images/middle-screen.png "Middle of page")
 
