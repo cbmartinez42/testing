@@ -1,6 +1,6 @@
 # testing
 
-![Portfolio] (https://mmcelwee8002.github.io/Challenge_2_Portfolio_MM/)
+![Portfolio](https://mmcelwee8002.github.io/Challenge_2_Portfolio_MM/)
 
 Contribution
 Matthew McElwee
